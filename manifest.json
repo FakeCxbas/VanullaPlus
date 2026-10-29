@@ -1,0 +1,172 @@
+{
+  "name": "VanullaPlus",
+  "minecraft": "1.21.11",
+  "fabric_loader": "0.18.4",
+  "fabric_installer": "1.0.1",
+  "server_launcher_url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.18.4/1.0.1/server/jar",
+  "server_jar_name": "fabric-server-launch.jar",
+  "mods": [
+    {
+      "name": "fabric-api",
+      "filename": "fabric-api-0.141.6+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+      "hashes": {
+        "sha512": "852d3682c4f353fd0ca86546af8578513e8bcf628377fa9d49c556bc59c5024c69ab56c92fc6dfba11fed19e4316a3f5636e7e07fd3d96f7043b531aef59b637",
+        "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6"
+      }
+    },
+    {
+      "name": "lithium",
+      "filename": "lithium-fabric-0.21.4+mc1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+      "hashes": {
+        "sha512": "f14a5c3d2fad786347ca25083f902139694f618b7c103947f2fd067a7c5ee88a63e1ef8926f7d693ea79ed7d00f57317bae77ef9c2d630bf5ed01ac97a752b94",
+        "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec"
+      }
+    },
+    {
+      "name": "ferrite-core",
+      "filename": "ferritecore-8.2.0-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+      "hashes": {
+        "sha512": "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869",
+        "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
+      }
+    },
+    {
+      "name": "c2me-fabric",
+      "filename": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.28.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/j1RWyU0M/c2me-fabric-mc1.21.11-0.4.0-alpha.0.28.jar",
+      "hashes": {
+        "sha1": "5af7f84ab3a5024907b353585b4009737d9858e5",
+        "sha512": "035f1722ea7b23e8a78d28f159d57cae89222f64e611230f452095f4f9d023ebdacd0fb89f03ebd04581642f134ed284e4d82f376706e8835711771bb27f9e3e"
+      }
+    },
+    {
+      "name": "alternate-current",
+      "filename": "alternate-current-mc1.21.11-1.9.0.jar",
+      "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/XdouG8YV/alternate-current-mc1.21.11-1.9.0.jar",
+      "hashes": {
+        "sha1": "f35f95c653c0ec99fa2aa5f993306922d00e59e9",
+        "sha512": "6c6f9411fad87f5ad04648fe47946764bce5f9121af2155aa2be7731e52b11e9150ac2de1657e0407ecc4cf1c373ef605b4de020aa71db32ba051bf88aec2535"
+      }
+    },
+    {
+      "name": "chunky",
+      "filename": "Chunky-Fabric-1.4.55.jar",
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/1CpEkmcD/Chunky-Fabric-1.4.55.jar",
+      "hashes": {
+        "sha512": "3be0e049e3dea6256b395ccb1f7dccc9c6b23cb7b1f6a717a7cd1ca55f9dbda489679df32868c72664ebb28ca05f2c366590d1e1a11f0dc5f69f947903bad833",
+        "sha1": "19c34a23a5c1b2f6c73117b8eb4524b521e1926b"
+      }
+    },
+    {
+      "name": "krypton",
+      "filename": "krypton-0.2.10.jar",
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+      "hashes": {
+        "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+        "sha512": "4dcd7228d1890ddfc78c99ff284b45f9cf40aae77ef6359308e26d06fa0d938365255696af4cc12d524c46c4886cdcd19268c165a2bf0a2835202fe857da5cab"
+      }
+    },
+    {
+      "name": "midnightlib",
+      "filename": "midnightlib-fabric-1.10.0+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/kKsXUOXh/midnightlib-fabric-1.10.0%2B1.21.11.jar",
+      "hashes": {
+        "sha512": "3dfe09d3db18650514422cd70afed14ae97207e37ea9e82a61d6b12ed9fc2c4eeebc0aef010b9dd4b42e4941a71fc2c18a2f3e7fdc6113b3881ad6534762df4f",
+        "sha1": "9d4ea7bb3432d8e1021f49daa408a37e04c76587"
+      }
+    },
+    {
+      "name": "terralith",
+      "filename": "Terralith_1.21.11_v2.6.1_Fabric.jar",
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/vVdNToqE/Terralith_1.21.11_v2.6.1_Fabric.jar",
+      "hashes": {
+        "sha1": "982e7e763d91765e86e4bf6cb1407ebd2eac0c00",
+        "sha512": "c502e8c18cc6b749fd3d5e8fc6e1d3fc91cdb9763c58c1c7e68c2ea69fb61f27259128171d5f50b2aaa0ea6a7753fcc293f14127110f5f4d2e2141758ffd469e"
+      }
+    },
+    {
+      "name": "lithostitched",
+      "filename": "lithostitched-1.7.2-fabric-21.11.jar",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pLbQKCOo/lithostitched-1.7.2-fabric-21.11.jar",
+      "hashes": {
+        "sha1": "d35f576f35115e406466fa426ec661a82b12e760",
+        "sha512": "77e432cf8932f5a9e6caee5ed4e18d80e0782e5eb9852a0e14c3e2337f5f84ecc579277ac8b7cdbbeaf03ac2fd2b17b68e951a05355c7973df4fd9176774679f"
+      }
+    },
+    {
+      "name": "tectonic",
+      "filename": "tectonic-3.0.19-fabric-1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/7olSYFxL/tectonic-3.0.19-fabric-1.21.11.jar",
+      "hashes": {
+        "sha512": "ce0643d45aac7b5e3f3a32fc01928371d97612a9dc6e8df721bf215bf90afa021b8e8d7e19c0d00060c3c98591aec90d2ea51f594fdc0012051f20657fae85ef",
+        "sha1": "ab0ad94c096070d36a050ec2ad56f0525d280d8c"
+      }
+    },
+    {
+      "name": "incendium",
+      "filename": "Incendium_26.1_v5.4.12.jar",
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/dmD183NM/Incendium_26.1_v5.4.12.jar",
+      "hashes": {
+        "sha1": "74f78445b6da346eb08a9f730e86dc77925eed46",
+        "sha512": "e2fe0e64b2228cd4a5c0af63a8943c1c958c586378e5e9d22be6b4fee82871bf1098a0e91cf34aa80df9d6c9ba03f2e36148748dc555ab63e1482ffc912e3530"
+      }
+    },
+    {
+      "name": "nullscape",
+      "filename": "Nullscape_1.21.x_v1.2.17.jar",
+      "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/f87vU1jc/Nullscape_1.21.x_v1.2.17.jar",
+      "hashes": {
+        "sha512": "16e12725973e03284d1a9d71c750b9687b91d91789eae8df657aa0f90d3487a68687711e486e2e294800eb492c355960b09be43006f3e0c48f67fc91f4f30bc2",
+        "sha1": "3841ae6220c3257cef8878ca7ed156a49ac5f5ff"
+      }
+    },
+    {
+      "name": "farmers-delight-refabricated",
+      "filename": "FarmersDelight-1.21.11-3.4.9+refabricated.jar",
+      "url": "https://cdn.modrinth.com/data/7vxePowz/versions/ZP4Uof9C/FarmersDelight-1.21.11-3.4.9%2Brefabricated.jar",
+      "hashes": {
+        "sha1": "44cb71429f0db84bc09b48a658340d7fb3184fff",
+        "sha512": "c77773c0eadaeeda971264f3a1d8cd7475fe8f00853d9280c50d3e1aef2886fff3f0426b068589b240f0767e2d7f1794a9eff93077065ede7c1006ee418acbdf"
+      }
+    },
+    {
+      "name": "comforts",
+      "filename": "comforts-fabric-14.0.2+1.21.11.jar",
+      "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/OPABkLvU/comforts-fabric-14.0.2%2B1.21.11.jar",
+      "hashes": {
+        "sha512": "b80100877031245a00d834954319d614837ad46d248c073001c00dd0d6d453a327ff9ae8ab71c46ac45e5280427e351e594f3b2ce24a8c0714df2b10f479f9ef",
+        "sha1": "41365e7d2e06f4397a4e16a30184b9a79e20d32e"
+      }
+    },
+    {
+      "name": "moogs-structure-lib",
+      "filename": "MoogsStructureLib-fabric-1.21.11-3.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/shwPA3uY/MoogsStructureLib-fabric-1.21.11-3.4.2.jar",
+      "hashes": {
+        "sha1": "41b3e1841e943208674a3b005c8675d17f631a93",
+        "sha512": "53935e207db469cb872d6c9e27a70d9c377ab211f842fbfe5ea3eb312c95298b62e3bb96d286d37e349d6e17492ed3fe8e383bef72e231bdbb4f200541985c16"
+      }
+    },
+    {
+      "name": "moogs-voyager-structures",
+      "filename": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/PiFoSPXI/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "hashes": {
+        "sha512": "80e9e4a6543e8fc7d24d7e1fb4d4245d1d30f9aaf02ae2ba1098956106bea411a4502ce1d4b8fa97b935c9421a0eebf42226a46c8172cbbf621cc8ca16a50457",
+        "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a"
+      }
+    },
+    {
+      "name": "repurposed-structures-fabric",
+      "filename": "repurposed_structures-7.6.2+1.21.11-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/LgshXq1u/repurposed_structures-7.6.2%2B1.21.11-fabric.jar",
+      "hashes": {
+        "sha1": "dc88e4bea42a5e007eb5c2d0107271a43f1db363",
+        "sha512": "b535e4247dfb71dec709ff021c2a40fad10c34c22a2950ee24b772d1841188f27f671050de88048684871cdfba84855ca7f65374768ba3b36ab8863c9b0697bc"
+      }
+    }
+  ]
+}

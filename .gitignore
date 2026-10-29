@@ -1,0 +1,24 @@
+# Binarios y ejecutable de Fabric
+*.jar
+fabric-server-launch.jar
+
+# Mods descargados dinamicamente
+mods/*.jar
+!mods/
+
+# Directorios de datos del mundo
+world/
+world_nether/
+world_the_end/
+
+# Logs y reportes
+logs/
+crash-reports/
+
+# Cache y temporales de Fabric y Java
+.fabric/
+libraries/
+versions/
+*.log
+*.tmp
+eula.txt
