@@ -167,6 +167,11 @@
         "sha1": "dc88e4bea42a5e007eb5c2d0107271a43f1db363",
         "sha512": "b535e4247dfb71dec709ff021c2a40fad10c34c22a2950ee24b772d1841188f27f671050de88048684871cdfba84855ca7f65374768ba3b36ab8863c9b0697bc"
       }
+    },
+    {
+      "name": "distant-horizons",
+      "filename": "DistantHorizons-3.3.3-1.21.11-fabric-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oNqCUHFk/DistantHorizons-3.3.3-1.21.11-fabric-neoforge.jar"
     }
   ]
 }
